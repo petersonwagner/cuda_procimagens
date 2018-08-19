@@ -1,5 +1,5 @@
-# processamento_imagens - Trabalho de Oficina de Computação
-#Refeito em CUDA
+# Processamento Imagens - Trabalho de Oficina de Computação
+# Refeito em CUDA
 # Especificação
 
 Para facilitar a leitura e escrita dos arquivos de imagem, neste projeto será adotado o formato de imagem Portable Gray Map (PGM), um formato de imagem em níveis de cinza bem simples e fácil de ler/escrever. Boa parte dos programas de tratamento de imagens reconhece o formato PGM.
